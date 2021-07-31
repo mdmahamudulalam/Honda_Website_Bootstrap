@@ -1,0 +1,51 @@
+.bg-banner{
+    background-color: rgb(38, 70, 83);
+}
+.imgSlide{
+    background-color: #E76F51;
+}
+.btn-purchase{
+    background-color: #E76F51;
+    color: white;
+}
+.featureText{
+    color: #E76F51;
+}
+
+.grayscaleImg{
+    filter: grayscale(100%);
+}
+.featureImg{
+    width:270px ;
+    height:230px;
+}
+.btn-more{
+    background-color: #E76F51;
+    color: white;
+}
+.btn-extra{
+    
+    color: #E76F51;
+    border: 1px solid #E76F51;
+}
+.userImg{
+    width:149px ;
+    height:149px ;
+    border-radius: 50%;
+}
+.quesImg{
+    width:380px ;
+    height:330px ;
+    
+}
+.mIcon{
+    
+    font-size: 50px;
+    margin: auto;
+}
+.fab{
+    font-size: 20px;
+    padding-top: 7px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
